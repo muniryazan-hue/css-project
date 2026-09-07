@@ -1,0 +1,33 @@
+
+#site-title {
+    font-size: 2em;
+    color: #333;
+    
+    margin-top: 20px;
+    
+    background-color: black;
+
+    width: 200px;
+    height: 150px;
+    display: flex;
+    
+    justify-content: center;
+    
+    
+    font-family: Arial;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 30px auto;
+ 
+}
+.welcome-message {
+    font-size: 1.2em;
+    color: #666;
+    text-align: center;
+    margin-top: 10px;
+    display: flex;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
